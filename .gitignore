@@ -1,0 +1,20 @@
+# Virtual Environment
+.venv/
+
+# Compiled Python files
+__pycache__/
+
+# Model checkpoint files
+model_mental_health.pth
+
+# Dataset files
+data/
+
+# Compiled files
+*.pyc
+
+# IDE-specific files
+.idea/
+
+# User-specific files
+*.DS_Store
